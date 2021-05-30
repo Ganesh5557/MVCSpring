@@ -11,6 +11,7 @@
 
 	<div class="container mt-3">
 
+		<a href="home" class="btn btn-primary">  Home </a> <br>
 		<h1>Add Employee Form</h1>
 		<a href="addEmployee" class="btn btn-primary"> Add Employee </a>
 		<div class="row">

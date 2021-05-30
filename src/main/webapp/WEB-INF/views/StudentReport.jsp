@@ -7,6 +7,8 @@
 <meta charset="ISO-8859-1">
 <%@include file="./base.jsp"%>
 
+
+
 <script>
 	$(document).ready(function() {
 		
@@ -164,6 +166,7 @@
   
   
 	<div class="container mt-3">
+	<a href="home" class="btn btn-primary">  Home </a> <br>
 		<form id="studentForm" name="studentform">
 			<div class="row">
 				<div class="col-6">

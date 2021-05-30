@@ -10,7 +10,7 @@
 
 
 	<div class="container mt-3">
-
+<a href="home" class="btn btn-primary">  Home </a> <br>
 		<h1>Edit Employee Form</h1>
 		<form action="updateEmployee" method="post">
 

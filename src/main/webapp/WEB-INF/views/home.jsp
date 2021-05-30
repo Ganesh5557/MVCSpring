@@ -9,7 +9,8 @@
       <div class="container mt-3">
 
       
-      <a href="employeeReport" class="btn btn-primary">  Employee </a>
+      <a href="/SpringMvcCrud/home" class="btn btn-primary">  Home </a> <br>
+      <a href="employeeReport" class="btn btn-primary">  Employee </a> <br>
       <a href="studentReport" class="btn btn-primary">  Student </a>
       
       </div>
